@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Indrajeeth&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Dev%20%7C%20Infra%20Nerd%20%7C%20Go%20%C2%B7%20Python%20%C2%B7%20TypeScript&descSize=16&descAlignY=55" width="100%"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Indrajeeth+%F0%9F%91%8B;Backend+Dev+%7C+Infra+Nerd;Go+%C2%B7+Python+%C2%B7+TypeScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=just+trust+the+process+%F0%9F%9A%80;building+things+that+scale+%E2%9A%A1;linux+%2B+vim+motions+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,12 +12,11 @@ class Indrajeeth:
     infra  = ["Linux", "Docker", "Azure", "Oracle Cloud"]
     db     = ["Redis", "MongoDB", "PostgreSQL"]
     editor = "VSCode + Vim motions"
-    motto  = "just trust the process"
 ```
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Tools I Use
+<h3 align="center">Tools I Use</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,44 +24,50 @@ class Indrajeeth:
   </a>
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Trophies
+<h3 align="center">Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IndrajeethY&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IndrajeethY&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="90%"/>
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Stats
+<h3 align="center">Stats</h3>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndrajeethY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IndrajeethY&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IndrajeethY&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IndrajeethY&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndrajeethY&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndrajeethY&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="center">Contribution Snake</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IndrajeethY/IndrajeethY/main/images/github-snake-dark.svg" alt="Snake animation" width="95%"/>
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### Reach Me
+<h3 align="center">Reach Me</h3>
 
 <div align="center">
 
@@ -72,6 +79,10 @@ class Indrajeeth:
 
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IndrajeethY&color=58A6FF&style=flat-square&label=Profile+Views" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
