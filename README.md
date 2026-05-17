@@ -24,7 +24,7 @@ class Indrajeeth:
 ### stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IndrajeethY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndrajeethY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IndrajeethY&theme=tokyonight&hide_border=true" />
 </div>
 
