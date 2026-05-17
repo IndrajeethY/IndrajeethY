@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=just+trust+the+process+%F0%9F%9A%80;building+things+that+scale+%E2%9A%A1;linux+%2B+vim+motions+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=just+trust+the+process+%F0%9F%9A%80;building+things+that+scale+%E2%9A%A1;coffee+%2B+code+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@ class Indrajeeth:
     stack  = ["Go", "Python", "TypeScript"]
     infra  = ["Linux", "Docker", "Azure", "Oracle Cloud"]
     db     = ["Redis", "MongoDB", "PostgreSQL"]
-    editor = "VSCode + Vim motions"
+    editor = "VSCode"
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -20,7 +20,7 @@ class Indrajeeth:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,ts,js,redis,mongodb,postgres,docker,linux,azure,git,github,vscode,vim,raspberrypi&perline=8" />
+    <img src="https://skillicons.dev/icons?i=go,py,ts,js,redis,mongodb,postgres,docker,linux,azure,git,github,vscode,raspberrypi&perline=7" />
   </a>
 </p>
 
