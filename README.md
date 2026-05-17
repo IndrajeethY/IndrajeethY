@@ -13,7 +13,9 @@ class Indrajeeth:
     motto  = "just trust the process"
 ```
 
-### tools i use
+---
+
+### Tools I Use
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +23,17 @@ class Indrajeeth:
   </a>
 </p>
 
-### stats
+---
+
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IndrajeethY&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</div>
+
+---
+
+### Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndrajeethY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -31,10 +43,24 @@ class Indrajeeth:
 <br/>
 
 <div align="center">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IndrajeethY&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndrajeethY&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
-### reach me
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+### Reach Me
 
 <div align="center">
 
@@ -47,5 +73,5 @@ class Indrajeeth:
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IndrajeethY&color=58A6FF&style=flat-square&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=IndrajeethY&color=58A6FF&style=flat-square&label=Profile+Views" />
 </div>
