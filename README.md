@@ -1,122 +1,51 @@
-# Hi, I'm Indrajeeth 👋! ![](https://komarev.com/ghpvc/?username=tamilvip007&abbreviated=true&color=green&&label=visitors)
-
-## Contact Information
-
 <div align="center">
-    <a href="https://www.instagram.com/tamilvip07/"><img
-            src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" /></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/tamilvip007"><img
-            src="https://img.icons8.com/color/48/000000/twitter--v1.png" /></a>&nbsp;&nbsp;
-    <a href="https://t.me/tamilvip07"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" /></a>
-    <a href="mailto:mail@indrajeeth.in"><img src="https://img.icons8.com/color/48/000000/email--v2.png" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Indrajeeth+%F0%9F%91%8B;Backend+Dev+%7C+Infra+Nerd;Go+%C2%B7+Python+%C2%B7+TypeScript)](https://git.io/typing-svg)
+
 </div>
 
-
-## About Me
-
-```python
-class Programmer:
-    def __init__(self, name, age, education, languages, instruments, optimization, exploration, invitation):
-        self.name = name
-        self.age = age
-        self.education = education
-        self.languages = languages
-        self.instruments = instruments
-        self.optimization = optimization
-        self.exploration = exploration
-        self.invitation = invitation
-
-    def welcome(self):
-        greeting = f"Behold, for you have entered the realm of {self.name}'s programming world! I'm {self.age} years old and currently studying {self.education}."
-        print(greeting)
-
-        print("I wield a mighty arsenal of programming languages, including: ")
-        for language in self.languages:
-            print("- " + language)
-
-        print("Each language is like an instrument in my hands:")
-        for language, instrument in self.instruments.items():
-            print("- " + language + ": " + instrument)
-
-        print(self.optimization)
-        print(self.exploration)
-        print(self.invitation)
-
-
-
-my_programmer = Programmer(
-    name="Indrajeeth",
-    age=22,
-    education="BTech IT",
-    languages=["Python", "Golang", "TypeScript", "JavaScript"],
-    instruments={
-        "Python": "the scalpel of simplicity",
-        "Golang": "the scalpel of speed",
-        "TypeScript": "the shield of type safety",
-        "JavaScript": "the chameleon of versatility",
-    },
-    optimization="With each line of code, I optimize like a blacksmith forging a masterpiece.",
-    exploration="My journey through the vast landscape of technology is like a sailor sailing uncharted waters.",
-    invitation="Join me, and together we will create wonders that shall echo through the digital ages!",
-)
-
-my_programmer.welcome()
-
+```py
+class Indrajeeth:
+    stack  = ["Go", "Python", "TypeScript"]
+    infra  = ["Linux", "Docker", "Azure", "Oracle Cloud"]
+    db     = ["Redis", "MongoDB", "PostgreSQL"]
+    editor = "VSCode + Vim motions"
+    motto  = "just trust the process"
 ```
 
-### Some of my Skills:
+### tools i use
 
-### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,ts,js,redis,mongodb,postgres,docker,linux,azure,git,github,vscode,vim,raspberrypi&perline=8" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### stats
 
-### Databases
-
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-
-
-### Operating Systems & Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio
-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Raspberry
-Pi](https://img.shields.io/badge/-Raspberry%20Pi%20OS-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-
-### Cloud Platforms
-
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Linode](https://img.shields.io/badge/-Linode-00A95C?style=flat-square&logo=linode&logoColor=white)
-
-## **📊 Stats**
-
-<div align="center" style="text-align:center">
-    <a href="https://github-readme-stats.vercel.app/api?username=tamilvip007&show_icons=true&theme=monokai&count_private=true">
-        <img width="49%"
-            src="https://github-readme-stats.vercel.app/api?username=tamilvip007&show_icons=true&theme=monokai&count_private=true"
-            alt="My Github stats">
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=tamilvip007&theme=monokai">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamilvip007&theme=monokai"
-            alt="My Github commit streak">
-    </a>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IndrajeethY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IndrajeethY&theme=tokyonight&hide_border=true" />
 </div>
 
-## **📈 My Code Activity**
+<br/>
 
-<div class="Walkatime" align="center">
-    <img src="https://github.com/TAMILVIP007/TAMILVIP007/blob/main/images/stat.svg" alt="My Walkatime Activity" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndrajeethY&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
+### reach me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tamilvip07/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tamilvip007)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tamilvip07)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@indrajeeth.in)
+[![Website](https://img.shields.io/badge/-indrajeeth.in-000?style=for-the-badge&logo=firefox&logoColor=white)](https://indrajeeth.in)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IndrajeethY&color=58A6FF&style=flat-square&label=profile+views" />
+</div>
