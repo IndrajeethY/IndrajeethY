@@ -29,7 +29,7 @@ class Indrajeeth:
 <h3 align="center">Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IndrajeethY&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="90%"/>
+  <img src="https://github-trophies.vercel.app/?username=IndrajeethY&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="90%"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
