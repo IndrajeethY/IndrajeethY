@@ -48,7 +48,7 @@ class Indrajeeth:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndrajeethY&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph-three-iota.vercel.app/graph?username=IndrajeethY&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
