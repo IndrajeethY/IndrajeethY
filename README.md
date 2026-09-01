@@ -37,12 +37,12 @@ class Indrajeeth:
 <h3 align="center">Stats</h3>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IndrajeethY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-stats-extended-pied-mu.vercel.app/api?username=IndrajeethY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IndrajeethY&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IndrajeethY&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="35%" src="https://github-stats-extended-pied-mu.vercel.app/api/top-langs/?username=IndrajeethY&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
