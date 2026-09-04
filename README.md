@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./images/profile-panel.svg" width="100%" alt="Profile summary panel" />
+</p>
+
+<p align="center">
   <strong>Backend engineer building calm systems, sharp APIs, and useful automation.</strong>
 </p>
 
@@ -12,38 +16,33 @@
   <a href="https://github.com/IndrajeethY">GitHub</a>
 </p>
 
----
+<p align="center">
+  <code>Go</code> <code>Python</code> <code>TypeScript</code> <code>Linux</code> <code>Docker</code> <code>PostgreSQL</code> <code>Redis</code> <code>Azure</code> <code>Oracle Cloud</code>
+</p>
 
-### What I build
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=IndrajeethY&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4"
+        width="100%"
+        alt="GitHub trophies"
+      />
+    </td>
+    <td width="50%" valign="top">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=IndrajeethY&theme=tokyonight&hide_border=true"
+        width="100%"
+        alt="GitHub streak stats"
+      />
+    </td>
+  </tr>
+</table>
 
-I work on backend services, tooling, and infrastructure that are meant to stay reliable after the novelty wears off.
-
-- APIs that are easy to reason about
-- deployment flows that do not turn into folklore
-- internal tools that remove repetitive work
-- automation that keeps moving even when nobody is watching
-
-### Current stack
-
-`Go` `Python` `TypeScript` `Linux` `Docker` `PostgreSQL` `Redis` `Azure` `Oracle Cloud`
-
-### Working style
-
-- keep the system boring in production
-- make failure visible early
-- choose clarity over cleverness
-- keep the interface clean, even when the internals are messy
-
-### Now
-
-- tightening backend and infra workflows
-- building smaller, sharper projects
-- keeping my personal stack practical and lean
-
-### Reach me
-
-<p>
-  <a href="mailto:mail@indrajeeth.in">mail@indrajeeth.in</a><br/>
-  <a href="https://indrajeeth.in">indrajeeth.in</a><br/>
-  <a href="https://github.com/IndrajeethY">github.com/IndrajeethY</a>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=IndrajeethY&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub activity graph"
+  />
 </p>

@@ -1,0 +1,71 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title>Indrajeeth Y profile summary panel</title>
+  <desc>Three-column summary panel with focus, stack, and principles.</desc>
+  <defs>
+    <linearGradient id="panelBg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050A10" />
+      <stop offset="0.5" stop-color="#0A1623" />
+      <stop offset="1" stop-color="#03060A" />
+    </linearGradient>
+    <radialGradient id="warm" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1280 110) rotate(135) scale(280 220)">
+      <stop stop-color="#E88A57" stop-opacity="0.25" />
+      <stop offset="1" stop-color="#E88A57" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cool" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 320) rotate(-20) scale(300 180)">
+      <stop stop-color="#86B7FF" stop-opacity="0.15" />
+      <stop offset="1" stop-color="#86B7FF" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 H 0 V 44" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="420" rx="28" fill="url(#panelBg)" />
+  <rect width="1600" height="420" rx="28" fill="url(#grid)" />
+  <circle cx="1260" cy="110" r="230" fill="url(#warm)" />
+  <circle cx="260" cy="320" r="170" fill="url(#cool)" />
+
+  <g opacity="0.9">
+    <rect x="96" y="80" width="430" height="260" rx="24" fill="#07111A" fill-opacity="0.9" stroke="#FFFFFF" stroke-opacity="0.08" />
+    <rect x="585" y="80" width="430" height="260" rx="24" fill="#07111A" fill-opacity="0.9" stroke="#FFFFFF" stroke-opacity="0.08" />
+    <rect x="1074" y="80" width="430" height="260" rx="24" fill="#07111A" fill-opacity="0.9" stroke="#FFFFFF" stroke-opacity="0.08" />
+  </g>
+
+  <text x="132" y="126" fill="#E88A57" font-size="15" font-weight="700" letter-spacing="2.6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">BUILD</text>
+  <text x="132" y="168" fill="#F5F1E8" font-size="28" font-weight="700" letter-spacing="-0.3" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Backend systems</text>
+  <text x="132" y="198" fill="#C7D3E2" font-size="18" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">APIs, automation, and tools</text>
+  <text x="132" y="236" fill="#90A4BF" font-size="17" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">that stay calm when traffic,</text>
+  <text x="132" y="260" fill="#90A4BF" font-size="17" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">deploys, and failures spike.</text>
+
+  <text x="621" y="126" fill="#E88A57" font-size="15" font-weight="700" letter-spacing="2.6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">STACK</text>
+  <g fill="#F5F1E8" font-size="18" font-weight="600" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect x="621" y="150" width="92" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="667" y="173" text-anchor="middle">Go</text>
+    <rect x="721" y="150" width="112" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="777" y="173" text-anchor="middle">Python</text>
+    <rect x="841" y="150" width="140" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="911" y="173" text-anchor="middle">TypeScript</text>
+
+    <rect x="621" y="194" width="104" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="673" y="217" text-anchor="middle">Docker</text>
+    <rect x="733" y="194" width="124" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="795" y="217" text-anchor="middle">PostgreSQL</text>
+    <rect x="865" y="194" width="92" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="911" y="217" text-anchor="middle">Redis</text>
+
+    <rect x="621" y="238" width="102" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="672" y="261" text-anchor="middle">Linux</text>
+    <rect x="731" y="238" width="96" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="779" y="261" text-anchor="middle">Azure</text>
+    <rect x="835" y="238" width="156" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" />
+    <text x="913" y="261" text-anchor="middle">Oracle Cloud</text>
+  </g>
+
+  <text x="1110" y="126" fill="#E88A57" font-size="15" font-weight="700" letter-spacing="2.6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">PRINCIPLES</text>
+  <text x="1110" y="170" fill="#F5F1E8" font-size="22" font-weight="650" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Ship small</text>
+  <text x="1110" y="202" fill="#C7D3E2" font-size="17" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Prefer clear interfaces over clever ones.</text>
+  <text x="1110" y="236" fill="#F5F1E8" font-size="22" font-weight="650" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Fail loud</text>
+  <text x="1110" y="268" fill="#C7D3E2" font-size="17" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Expose problems before they spread.</text>
+  <text x="1110" y="302" fill="#F5F1E8" font-size="22" font-weight="650" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Stay lean</text>
+  <text x="1110" y="334" fill="#C7D3E2" font-size="17" font-weight="400" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">Keep the surface calm and practical.</text>
+</svg>
