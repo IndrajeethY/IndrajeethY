@@ -1,0 +1,5 @@
+.preview/
+realm/fonts/src/
+realm/fonts/*.ttf
+realm/README.old.md
+__pycache__/
