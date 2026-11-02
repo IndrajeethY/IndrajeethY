@@ -158,7 +158,7 @@ def fetch(token):
     q = f"""{{user(login:"{USER}"){{followers{{totalCount}}
       contributionsCollection{{totalCommitContributions totalPullRequestReviewContributions contributionCalendar{{totalContributions}}}}
       pullRequests{{totalCount}} issues{{totalCount}}
-      repositories(first:100,ownerAffiliations:OWNER,privacy:PUBLIC){{nodes{{stargazerCount}}}}}}
+      repositories(first:100,ownerAffiliations:OWNER,privacy:PUBLIC){{totalCount nodes{{stargazerCount}}}}}}
       {repo_q}}}"""
     d = gh(token, q)
     u = d["user"]
@@ -171,6 +171,7 @@ def fetch(token):
         "issues": u["issues"]["totalCount"],
         "followers": u["followers"]["totalCount"],
         "stars": sum(n["stargazerCount"] for n in u["repositories"]["nodes"]),
+        "repos": u["repositories"]["totalCount"],
     }
     repos = []
     for i, (name, title, desc, lang, stars) in enumerate(REPOS):
@@ -244,7 +245,7 @@ def scroll(s):
     rnd = random.Random(4)
     lvl, pct = rank(s)
     rows = [("Commits this year", s["commits"]), ("Pull requests", s["prs"]), ("Issues raised", s["issues"]),
-            ("Reviews cast", s["reviews"]), ("Stars earned", s["stars"]), ("Followers", s["followers"])]
+            ("Public repos", s["repos"]), ("Stars earned", s["stars"]), ("Followers", s["followers"])]
     TOPV = 10 ** max(3, math.ceil(math.log10(max(v for _, v in rows) + 1)))
     lt = math.log10(TOPV)
     cols_all = int(W / (F * 0.6))
