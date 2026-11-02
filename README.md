@@ -37,18 +37,12 @@ class Indrajeeth:
 <h3 align="center">Stats</h3>
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended-pied-mu.vercel.app/api?username=IndrajeethY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IndrajeethY&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="./images/stats.svg" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=IndrajeethY&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="35%" src="https://github-stats-extended-pied-mu.vercel.app/api/top-langs/?username=IndrajeethY&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph-three-iota.vercel.app/graph?username=IndrajeethY&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img width="35%" src="./images/top-langs.svg" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -56,7 +50,7 @@ class Indrajeeth:
 <h3 align="center">Contribution Snake</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IndrajeethY/IndrajeethY/main/images/github-snake-dark.svg" alt="Snake animation" width="95%"/>
+  <img src="./images/github-snake-dark.svg" alt="Snake animation" width="95%"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
